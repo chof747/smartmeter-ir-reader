@@ -409,7 +409,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "template-project.kicad_pro",
+    "filename": "smartmeter-ir-reader.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -470,6 +470,10 @@
       {
         "netclass": "Power",
         "pattern": "GND"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "/VCC"
       }
     ]
   },
@@ -479,7 +483,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "smartmeter-ir-reader-v10.STEP",
       "vrml": ""
     },
     "page_layout_descr_file": ""

@@ -1620,8 +1620,8 @@
     (property "Datasheet" "http://www.osram-os.com/Graphics/XPic2/00101811_0.pdf/SFH%20309,%20SFH%20309%20FA,%20Lead%20(Pb)%20Free%20Product%20-%20RoHS%20Compliant.pdf" (at 196.85 35.56 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid e463584e-2e8d-496a-b68b-fcac22346cc4))
-    (pin "2" (uuid 70770c10-b0cf-409e-b675-1275cab3d9d1))
+    (pin "1" (uuid e35422ad-e3a6-4c90-9fb4-8c4fe2f08041))
+    (pin "2" (uuid fddd78a2-19cd-4dc4-b779-9e3c94bcf9c4))
     (instances
       (project "smartmeter-ir-reader"
         (path "/e8426e51-e5a9-4642-8277-6d3f50e0e523"

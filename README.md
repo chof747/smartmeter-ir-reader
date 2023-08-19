@@ -10,4 +10,4 @@ It has been modified as follows:
 This board is intended to interface with a Microcontroller unit via an RJ11 connector.
 
 ## Revision History:
-- **v1.0**: Initial version
+- **v1.0**: Initial version (Produced: 19.08.2023)

@@ -11,3 +11,4 @@ This board is intended to interface with a Microcontroller unit via an RJ11 conn
 
 ## Revision History:
 - **v1.0**: Initial version (Produced: 19.08.2023)
+- **v1.1**: Corrected RJ12 socket connector 

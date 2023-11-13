@@ -18,4 +18,4 @@ This board is intended to interface with a Microcontroller unit via an RJ11 conn
 ## Revision History:
 - **v1.0**: Initial version (Produced: 19.08.2023; not assembled)
 - **v1.1**: Corrected RJ11 socket connector (Produced: 19.09.2023; First Assembly: 06.10.2023))
-- **v1.2**: Corrected misorientation of Q1/Q2 transistor pins, Board cutout and added Pin descriptions (Produced 15.10.2023)
+- **v1.2**: Corrected misorientation of Q1/Q2 transistor pins, Board cutout and added Pin descriptions (Produced 15.10.2023; Asembled: 10.11.2023 - successfully)
